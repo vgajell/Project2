@@ -1,0 +1,3 @@
+/home/robotics/Documents/Cmake/app2/build/CMakeFiles/rebuild_cache.dir
+/home/robotics/Documents/Cmake/app2/build/CMakeFiles/edit_cache.dir
+/home/robotics/Documents/Cmake/app2/build/CMakeFiles/opencv.dir

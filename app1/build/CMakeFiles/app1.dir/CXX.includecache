@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/robotics/Documents/Cmake/app1/app1.cpp
+iostream
+-
+../libs/math_lib.hpp
+/home/robotics/Documents/Cmake/libs/math_lib.hpp
+../libs/data_structure_lib.hpp
+/home/robotics/Documents/Cmake/libs/data_structure_lib.hpp
+
+/home/robotics/Documents/Cmake/libs/data_structure_lib.hpp
+cstddef
+-
+
+/home/robotics/Documents/Cmake/libs/math_lib.hpp
+stdint.h
+-
+
